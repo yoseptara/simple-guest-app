@@ -1,0 +1,65 @@
+[
+  {
+    "id" : 1,
+    "name" :  "Haylie Gouse",
+    "email" : "hayliegouse@gmail.com",
+    "phoneNumber": "+3101238198",
+    "joinedAt" : "2021-12-01 00:00:00.000",
+    "origin": "Oslo, Finland",
+    "pngImgAssetName" : "guest_01.png"
+  },
+  {
+    "id" : 2,
+    "name" :  "Jordyn Levin",
+    "email" : "jordynlevin@gmail.com",
+    "phoneNumber": "+3101356198",
+    "joinedAt" : "2021-02-01 00:00:00.000",
+    "origin": "New York, USA",
+    "pngImgAssetName" : "guest_02.png"
+  },
+  {
+    "id" : 3,
+    "name" :  "Charlie Ekstrom Bothman",
+    "email" : "charlieekstrom@gmail.com",
+    "phoneNumber": "+3112356198",
+    "joinedAt" : "2021-04-01 00:00:00.000",
+    "origin": "California, USA",
+    "pngImgAssetName" : "guest_03.png"
+  },
+  {
+    "id" : 4,
+    "name" :  "Wilson Workman",
+    "email" : "wilsonworkman@gmail.com",
+    "phoneNumber": "+245656198",
+    "joinedAt" : "2021-06-01 00:00:00.000",
+    "origin": "Berlin, Germany",
+    "pngImgAssetName" : "guest_04.png"
+  },
+  {
+    "id" : 5,
+    "name" :  "Cooper Siphron",
+    "email" : "coopersiphron@gmail.com",
+    "phoneNumber": "+2456333198",
+    "joinedAt" : "2021-08-01 00:00:00.000",
+    "origin": "Paris, France",
+    "pngImgAssetName" : "guest_05.png"
+  },
+  {
+    "id" : 6,
+    "name" :  "Skylar Calzoni",
+    "email" : "skylarcalzoni@gmail.com",
+    "phoneNumber": "+2457733448",
+    "joinedAt" : "2021-10-01 00:00:00.000",
+    "origin": "Moscow, Russia",
+    "pngImgAssetName" : "guest_06.png"
+  },
+  {
+    "id" : 7,
+    "name" :  "Skylar Calzoni",
+    "email" : "skylarcalzoni@gmail.com",
+    "phoneNumber": "+2457733448",
+    "joinedAt" : "2021-11-01 00:00:00.000",
+    "origin": "Moscow, Russia",
+    "pngImgAssetName" : "guest_06.png"
+  }
+]

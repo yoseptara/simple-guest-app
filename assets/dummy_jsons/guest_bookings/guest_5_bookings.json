@@ -1,0 +1,41 @@
+[
+  {
+    "id": "HMLCBXLBCF",
+    "host": "Lunar Hotel",
+    "profileName": "Kassy & Wayan",
+    "propertyUnit": "ME Villa - B (1BR)",
+    "checkin": "2021-01-29 20:30:00.000",
+    "checkout": "2021-02-29 20:30:00.000",
+    "numberOfGuests": 2,
+    "phoneNumber": "082123892893",
+    "bookingStatus": "canceled",
+    "bookingValue": 32.01,
+    "listingName" : "4BR Homey Villa in Uluwatu | Kitchen + Wifi + Pool"
+  },
+  {
+    "id": "BDLFUHFAVT",
+    "host": "Stargaze Resort",
+    "profileName": "Bayu & Zula",
+    "propertyUnit": "ME Villa - B (1BR)",
+    "checkin": "2021-03-29 20:30:00.000",
+    "checkout": "2021-04-29 20:30:00.000",
+    "numberOfGuests": 2,
+    "phoneNumber": "082123892893",
+    "bookingStatus": "confirmed",
+    "bookingValue": 32.01,
+    "listingName" : "4BR Homey Villa in Uluwatu | Kitchen + Wifi + Pool"
+  },
+  {
+    "id": "KDUMDWCZSU",
+    "host": "Citadel Hotel",
+    "profileName": "Regan & Wayan",
+    "propertyUnit": "ME Villa - B (1BR)",
+    "checkin": "2021-05-29 20:30:00.000",
+    "checkout": "2021-06-29 20:30:00.000",
+    "numberOfGuests": 2,
+    "phoneNumber": "082123892893",
+    "bookingStatus": "canceled",
+    "bookingValue": 32.01,
+    "listingName" : "4BR Homey Villa in Uluwatu | Kitchen + Wifi + Pool"
+  }
+]
