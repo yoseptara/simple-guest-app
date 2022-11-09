@@ -1,6 +1,6 @@
-# bukit_vista_flutter_assessment
+# simple_guest_app
 
-Bukit Vista Flutter Assessment
+Simple Guest App
 
 ## Getting Started
 
